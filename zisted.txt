@@ -1,3 +1,1 @@
 This is the initialization of the ZISTED future on Git.
-
-Branching is fun.
