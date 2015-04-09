@@ -1,1 +1,3 @@
 This is the initialization of the ZISTED future on Git.
+
+Change made pa branch re maficha matsva!
